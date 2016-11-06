@@ -1,0 +1,13 @@
+target/
+.classpath
+.project
+.settings
+*.iml
+.idea
+out/
+.DS_Store
+jenkins.war
+rebuild.rc
+build.log
+run.rc
+nb-configuration.xml
